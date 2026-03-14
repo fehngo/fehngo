@@ -20,3 +20,8 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor.
 
 📂 Exercícios do Curso em Vídeo  
 https://github.com/fehngo/meus-exercicios-python
+
+## Contato
+
+📧 Email: felippe.n.camargo@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/felippe-nascimento-fnc
