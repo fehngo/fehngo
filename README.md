@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Felippe 👋
 
-<!--
-**fehngo/fehngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Atualmente estudando Python  
+📚 Fazendo o curso de Python do Curso em Vídeo (Guanabara)
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git
+- GitHub
+
+## Sobre mim
+
+Atualmente estou migrando de área para tecnologia e estudando programação diariamente.
+
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor.
+
+## Repositórios
+
+📂 Exercícios do Curso em Vídeo  
+https://github.com/fehngo/meus-exercicios-python
